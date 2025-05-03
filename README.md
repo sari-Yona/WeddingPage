@@ -28,9 +28,7 @@ This project is a simple and visually appealing countdown webpage that counts do
 
 - **Background Image**: Replace `back3.jpg` with another image of your choice. Ensure the new image is in the same directory as the `weddong.html` file.
 
-## Preview
 
-![Preview](back3.jpg)
 
 ## License
 
